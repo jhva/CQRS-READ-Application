@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "name": {
+      "type": "text",
+      "analyzer": "korean"
+    },
+    "age": {
+      "type": "integer"
+    },
+    "hobby": {
+      "type": "text",
+      "analyzer": "korean"
+    },
+    "height": {
+      "type": "integer"
+    },
+    "job": {
+      "type": "text",
+      "analyzer": "korean"
+    },
+    "tech": {
+      "type": "text",
+      "analyzer": "korean"
+    },
+    "githubUrl": {
+      "type": "text",
+      "analyzer": "korean"
+    }
+  }
+}
